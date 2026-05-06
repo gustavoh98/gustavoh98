@@ -104,6 +104,6 @@ My work is driven by a commitment to delivering robust, scalable cloud solutions
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=450&height=30&lines=Infraestrutura+como+c%C3%B3digo.+Aprendizado+como+pr%C3%A1tica.)](https://github.com/gustavoh98)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=450&height=30&lines=Infraestrutura+como+c%C3%B3digo.)](https://github.com/gustavoh98)
 
 </div>
